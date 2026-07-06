@@ -41,13 +41,16 @@ This project provides an end-to-end analytical solution: thoroughly cleaning raw
 *(Visualizing operations, profitability, and customer sentiment)*
 
 ### [Executive Overview]
-<img width="1000" alt="Dashboard Page 1" src="./dashboard-screenshots/executive_overview_page01.png" />
+<img width="1195" height="667" alt="executive_overview_page01" src="https://github.com/user-attachments/assets/7f5ee769-4f70-42d0-9e15-6e7ed1dcb6dc" />
+
 
 ### [Operations & SLA]
-<img width="1000" alt="Dashboard Page 2" src="./dashboard-screenshots/delivery_operations_page02.png" />
+<img width="1193" height="667" alt="delivery_operations_page02" src="https://github.com/user-attachments/assets/76aa76cb-1154-4817-8b90-15ddf12c0bfc" />
+
 
 ### [Customer & Marketing]
-<img width="1000" alt="Dashboard Page 3" src="./dashboard-screenshots/customer_marketing_page03.png" />
+<img width="1195" height="672" alt="customer_marketing_page03" src="https://github.com/user-attachments/assets/ab6ea55f-d66f-4261-9f57-633ce22af830" />
+
 
 ---
 
